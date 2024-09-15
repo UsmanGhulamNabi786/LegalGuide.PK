@@ -72,7 +72,7 @@ The chatbot provides guidance across several areas of Pakistani law, including:
   - Companies Act 2017  
   - Partnership Act 1932
 
-- …and many more areas.
+    - …and many more areas.
 
 ## How It Works  
 
