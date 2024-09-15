@@ -1,7 +1,7 @@
 # LegalGuide.PK
 An Ai-powered Chatbot For Providing Legal Guidance On Pakistani Law.
 
-Overview
+- Overview
 The Legal Guide PK chatbot is an AI-driven tool developed to assist users by providing legal guidance on various Pakistani laws. 
 This chatbot is built to facilitate easy access to legal information in simple and conversational English. 
 It is trained on a wide range of legal documents and provides guidance across several domains such as criminal law, civil law, family law, corporate law, property law, and more.
